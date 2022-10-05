@@ -1,2 +1,2 @@
 # neurons_dimensionality_reduction
-This is my MSc project dealing with applying dimensionality reduction methods on large scale neuronal recordings
+MScR Thesis - Comparison of Dimensionality Reduction Methods for Large Scale Neuronal Recordings
